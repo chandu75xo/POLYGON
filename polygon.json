@@ -1,0 +1,250 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a protocol and framework for building and connecting Ethereum-compatible blockchain networks. Formerly known as the Matic Network, Polygon aims to address some of the scalability and usability issues faced by Ethereum.",
+    "tags": [
+        "Polygon Network",
+        "Ethereum Scaling",
+        "Layer 2 Solutions",
+        "Blockchain Interoperability",
+        "Developer-Friendly",
+        "Cryptocurrency",
+        "Tokenomics"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+          "symbol": "MATIC",
+          "website": "https://polygon.technology/",
+          "whitepaper": "https://polygon.technology/whitepaper",
+          "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. It is designed to address some of Ethereum's key limitations including scalability and user experience.",
+          "founding_date": "April 2020",
+          "type": "Layer 2 Scaling Solution",
+          "use_cases": ["Scalability", "Interoperability", "Developer-Friendly", "Security"],
+          "token": {
+            "name": "MATIC Token",
+            "type": "ERC-20",
+            "contract_address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+            "total_supply": "10,000,000,000 MATIC"
+    },
+    "official_links": {
+        "official_links": {
+            "website": "https://polygon.technology/",
+            "whitepaper": "https://polygon.technology/whitepaper/",
+            "documentation": "https://docs.polygon.technology/",
+            "forum": "https://forum.polygon.technology/",
+            "github": "https://github.com/maticnetwork"
+          },
+          "social_platforms": {
+            "discord": "https://discord.com/invite/ethereum-org",
+            "twitter": "https://twitter.com/ethereum",
+            "reddit": "https://reddit.com/r/ethereum",
+            "community": "https://ethereum.org/community/online",
+            "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
+            "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/"
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "https://www.cryptocompare.com/coins/"
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/"
+        },
+        {
+            "name": "Investing",
+            "url": "https://www.investing.com/crypto/"
+        },
+        {
+            "name": "MarketWatch",
+            "url": "https://www.marketwatch.com/investing/cryptocurrency/"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Etherscan",
+            "url": "https://etherscan.io/"
+        },
+        {
+            "name": "Blockchair",
+            "url": "https://blockchair.com/"
+        },
+        {
+            "name": "Parsec",
+            "url": "https://parsec.fi/"
+        },
+        {
+            "name": "OKLink",
+            "url": "https://www.oklink.com/"
+        },
+        {
+            "name": "Ethplorer",
+            "url": "https://ethplorer.io/"
+        },
+        {
+            "name": "TokenView",
+            "url": "https://eth.tokenview.io/"
+        },
+        {
+            "name": "3xpl",
+            "url": "https://3xpl.com/"
+        },
+        {
+            "name": "BlockSec",
+            "url": "https://phalcon.blocksec.com/explorer"
+        },
+        {
+            "name": "OpenChain",
+            "url": "https://openchain.xyz/trace"
+        },
+        {
+            "name": "Tenderly",
+            "url": "https://dashboard.tenderly.co/explorer"
+        },
+        {
+            "name": "Dedaub",
+            "url": "https://app.dedaub.com/?"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Layer Zero",
+            "url": "https://layerzero.network/"
+        },
+        {
+            "name": "Axelar",
+            "url": "https://axelar.network/"
+        },
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        },
+        {
+            "name": "Wormhole",
+            "url": "https://wormhole.com/"
+        },
+        {
+            "name": "Stargate",
+            "url": "https://stargate.finance/"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://ethereum.org/en/bug-bounty/"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Ethereum Foundation",
+            "url": "https://ethereum.org/en/community/grants/"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Alchemy",
+            "url": "https://goerlifaucet.com"
+        },
+        {
+            "name": "QuickNode",
+            "url": "https://faucet.quicknode.com/"
+        },
+        {
+            "name": "All That Node",
+            "url": "https://www.allthatnode.com/faucet/"
+        },
+        {
+            "name": "Holesky PoW Faucet",
+            "url": "https://holesky-faucet.pk910.de/"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Chainlist",
+            "url": "https://chainlist.org/chain/1"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Wallet Finder",
+            "url": "https://ethereum.org/wallets/find-wallet"
+        },
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "Safe",
+            "url": "https://safe.global/"
+        },
+        {
+            "name": "Rainbow",
+            "url": "https://rainbow.me/"
+        },
+        {
+            "name": "Coinbase Wallet",
+            "url": "https://www.coinbase.com/wallet"
+        },
+        {
+            "name": "OKX",
+            "url": "https://www.okx.com/web3"
+        },
+        {
+            "name": "Trezor",
+            "url": "https://trezor.io/"
+        },
+        {
+            "name": "Ledger",
+            "url": "https://www.ledger.com/"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "description": "Chainlink provides decentralized oracles that enable smart contracts to securely interact with external data sources, APIs, and payment systems.",
+            "website": "https://chain.link/"
+          },
+          {
+            "name": "Band Protocol",
+            "description": "Band Protocol offers decentralized oracle solutions that aggregate and connect real-world data to smart contracts on Polygon and other blockchain networks.",
+            "website": "https://bandprotocol.com/"
+          },
+          {
+            "name": "Tellor",
+            "description": "Tellor is a decentralized oracle for bringing high value off-chain data onto the blockchain. It is used to power secure and reliable data feeds for decentralized applications.",
+            "website": "https://tellor.io/"
+          },
+          {
+            "name": "DIA",
+            "description": "DIA (Decentralised Information Asset) provides transparent and verified oracles for the DeFi ecosystem, supplying financial institutions and developers with a reliable data source.",
+            "website": "https://diadata.org/"
+        }
+    ]
+}
